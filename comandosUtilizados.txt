@@ -1,0 +1,38 @@
+ 1001  git init
+ 1002  git add .
+ 1003  git commit -m "commit 01 de JenifferGuaman"
+ 1004  git branch -M main
+ 1005  git remote add origin https://github.com/jenxime/20230605-JenifferGuaman.git
+ 1006  git push -u origin main
+ 1007  touch comandos.txt main.js index.html
+ 1008  git add .
+ 1009  git commit -m "commit 01 de JenifferGuaman"
+ 1010  git push -u origin main
+ 1011  git branch feature01
+ 1012  checkout feature01
+ 1013  git checkout feature01
+ 1014  mkdir Terminal Hardware
+ 1015  cd Terminal 
+ 1016  touch resumen.txt
+ 1017  cd ..
+ 1018  cd Hardware
+ 1019  touch resumen.txt
+ 1020  cd ..
+ 1021  git add .
+ 1022  git commit -m "commit 02 de JenifferGuaman"
+ 1023  git push origin feature01
+ 1024  git branch feature02
+ 1025  git branch
+ 1026  git checkout feature02
+ 1027  git add .
+ 1028  git commit -m "commit 03 de JenifferGuaman"
+ 1029  git add .
+ 1030  git commit -m "commit 03 de JenifferGuaman"
+ 1031  git push origin feature02
+ 1032  git checkout main
+ 1033  mv comandos.txt comandosUtilizados.txt
+ 1034  ls -R
+ 1035  history 
+ 1036 git add .
+ 1037 git commit -m "commit 04 de JenifferGuaman"
+ 1038 git push -u origin main
