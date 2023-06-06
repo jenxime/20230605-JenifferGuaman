@@ -1,0 +1,6 @@
+1.- mkdir: sirve para crear directorios 
+2.- touch: nos permite crear archivos sin importar su extencion
+3.- git init: inicializa el repositorio local
+4.- git pull: permite actualizar los datos que se encuentren en el repositorio remoto al repositorio local 
+5.- nano: sirve para editar archivos de texto
+6.- git branch [NOMBRE DE RAMA]: crea una rama en el repositorio 

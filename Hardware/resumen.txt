@@ -1,0 +1,6 @@
+
+    1.- Placa madre (o placa base): Es el componente principal que conecta y comunica todos los demás componentes de hardware de la computadora. La placa madre contiene el procesador, la memoria RAM, los puertos de entrada y salida, los controladores de dispositivos y otros circuitos esenciales.
+
+    2.- Disco duro (HDD o SSD): El disco duro es el dispositivo de almacenamiento principal de la computadora. Guarda de forma permanente los datos, incluyendo el sistema operativo, programas y archivos. Los discos duros tradicionales (HDD) utilizan discos magnéticos giratorios para almacenar la información, mientras que los discos de estado sólido (SSD) utilizan memoria flash para el almacenamiento.
+
+    3.- Unidad de procesamiento central (CPU): La CPU es el cerebro de la computadora y realiza la mayoría de las operaciones de procesamiento. Es responsable de ejecutar instrucciones, realizar cálculos, controlar los componentes del sistema y coordinar el funcionamiento general de la computadora. La CPU se compone de uno o varios núcleos y tiene una velocidad de reloj que determina su capacidad de procesamiento.
